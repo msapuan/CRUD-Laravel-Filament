@@ -79,6 +79,7 @@ php artisan serve
 ## 📸 Screenshoot
 
 - Login Page
-
+![alt text](https://i.ibb.co.com/KLPG8CW/login.png)
 
 - Dashboard Page
+![alt text](https://i.ibb.co.com/Km9t0m3/dashboard.png)
